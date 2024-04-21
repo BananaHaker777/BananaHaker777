@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BananaHaker777
+- 👀 I’m interested in creating games
+- 🌱 I’m currently learning java
+- 😄 Pronouns: he/him
