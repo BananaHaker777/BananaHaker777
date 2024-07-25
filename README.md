@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BananaHaker777
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning forge 1.20.1 / java
 - 😄 Pronouns: he/him
