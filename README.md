@@ -1,5 +1,5 @@
-Hello there, im That_One, also knows as BananaHaker
-i do Python and C++
+Hello there, im That_One, also knows as BananaHaker  
+i do Python and C++  
 Arch Linux enthusiast
 
 ---
